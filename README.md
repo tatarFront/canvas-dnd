@@ -19,18 +19,18 @@ Also:
 ### Installation
 Install the dependencies and devDependencies and start the server.
 
-sh
+```
 $ npm install
 $ npm start
+```
 For to run tests
-s
-h
+```
 $ npm run test
-
+```
 For to run eslint
-sh
+```
 $ npm run lint:fix
-
+```
 
 ### Usage
 For create new line, you need to click on button.
