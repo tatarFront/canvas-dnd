@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Canvas Wrapper should render correctly in "debug" mode 1`] = `ShallowWrapper {}`;
+
+exports[`Canvas should click and render correctly 1`] = `ReactWrapper {}`;
+
+exports[`Canvas should render correctly component in "debug" mode 1`] = `ShallowWrapper {}`;
+
+exports[`Canvas should render correctly container in "debug" mode 1`] = `ShallowWrapper {}`;
+
+exports[`Canvas should render correctly in "debug" mode 1`] = `ShallowWrapper {}`;
+
+exports[`Canvas should render correctly in "debug" mode 2`] = `ShallowWrapper {}`;
